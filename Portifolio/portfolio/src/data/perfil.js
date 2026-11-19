@@ -4,5 +4,6 @@ export const perfil = {
     cargo: 'Estudante',
     cidade: 'Cruz das almas',
     email: 'erickmachado088@gmail.com',
-    resumo: 'Estou aprendendo etc etc etc'
+    resumo: 'Estou aprendendo etc etc etc',
+    
 }
